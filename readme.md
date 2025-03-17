@@ -9,3 +9,5 @@ A forrásanyagok letöltéséhez és használatához futtasd az alábbi parancso
 ```bash
 git clone -b fetch_starwars https://github.com/vellt/web_12B_1csop_forrasok.git
 ```
+
+[link](https://attila428.github.io/techbazis/)
